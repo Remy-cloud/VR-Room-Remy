@@ -8,19 +8,19 @@
 
 # Define macros (only works in top-level gitattributes files)
 [attr]lfs               -text
-[attr]unity-json        eol=lf linguist-language=json
-[attr]unity-yaml        merge=unityyamlmerge eol=lf linguist-language=yaml
+[attr]unity-json        linguist-language=json
+[attr]unity-yaml        merge=unityyamlmerge linguist-language=yaml
 
 # Optionally collapse Unity YAML files on GitHub diffs
 # [attr]unity-yaml        merge=unityyamlmerge text linguist-language=yaml linguist-generated
 
 # Unity source files
-*.cginc                 text
-*.compute               text linguist-language=hlsl
-*.cs                    text diff=csharp
-*.hlsl                  text linguist-language=hlsl
-*.raytrace              text linguist-language=hlsl
-*.shader                text
+*.cginc                 -text
+*.compute               -text linguist-language=hlsl
+*.cs                    -text diff=csharp
+*.hlsl                  -text linguist-language=hlsl
+*.raytrace              -text linguist-language=hlsl
+*.shader                -text
 
 # Unity JSON files
 *.asmdef                unity-json
@@ -31,9 +31,9 @@
 *.shadersubgraph        unity-json
 
 # Unity UI Toolkit files
-*.tss                   text diff=css linguist-language=css
-*.uss                   text diff=css linguist-language=css
-*.uxml                  text linguist-language=xml linguist-detectable
+*.tss                   -text diff=css linguist-language=css
+*.uss                   -text diff=css linguist-language=css
+*.uxml                  -text linguist-language=xml linguist-detectable
 
 # Unity YAML files
 *.anim                  unity-yaml

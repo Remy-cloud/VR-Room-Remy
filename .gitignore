@@ -115,3 +115,7 @@ InitTestScene*.unity*
 
 # Burst debug output from builds
 *_BurstDebugInformation_DoNotShip/
+
+# Editor and OS files
+.vscode/
+.DS_Store
