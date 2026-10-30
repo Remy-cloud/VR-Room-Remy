@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Index Finger Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 0
+  - m_Path: Root
+    m_Weight: 0
+  - m_Path: Root/J_Left
+    m_Weight: 0
+  - m_Path: Root/J_Left/J_Left_Hand
+    m_Weight: 0
+  - m_Path: Root/J_Left/J_Left_Hand/J_Left_HandIndex1
+    m_Weight: 1
+  - m_Path: Root/J_Left/J_Left_Hand/J_Left_HandIndex1/J_Left_HandIndex2
+    m_Weight: 1
+  - m_Path: Root/J_Left/J_Left_Hand/J_Left_HandIndex1/J_Left_HandIndex2/J_Left_HandIndex3
+    m_Weight: 1
+  - m_Path: Root/J_Left/J_Left_Hand/J_Left_HandIndex1/J_Left_HandIndex2/J_Left_HandIndex3/J_Left_HandIndex4
+    m_Weight: 0
+  - m_Path: Root/J_Left/J_Left_Hand/J_Left_HandMiddle1
+    m_Weight: 0
+  - m_Path: Root/J_Left/J_Left_Hand/J_Left_HandMiddle1/J_Left_HandMiddle2
+    m_Weight: 0
+  - m_Path: Root/J_Left/J_Left_Hand/J_Left_HandMiddle1/J_Left_HandMiddle2/J_Left_HandMiddle3
+    m_Weight: 0
+  - m_Path: Root/J_Left/J_Left_Hand/J_Left_HandMiddle1/J_Left_HandMiddle2/J_Left_HandMiddle3/J_Left_HandMiddle4
+    m_Weight: 0
+  - m_Path: Root/J_Left/J_Left_Hand/J_Left_HandPinky1
+    m_Weight: 0
+  - m_Path: Root/J_Left/J_Left_Hand/J_Left_HandPinky1/J_Left_HandPinky2
+    m_Weight: 0
+  - m_Path: Root/J_Left/J_Left_Hand/J_Left_HandPinky1/J_Left_HandPinky2/J_Left_HandPinky3
+    m_Weight: 0
+  - m_Path: Root/J_Left/J_Left_Hand/J_Left_HandPinky1/J_Left_HandPinky2/J_Left_HandPinky3/J_Left_HandPinky4
+    m_Weight: 0
+  - m_Path: Root/J_Left/J_Left_Hand/J_Left_HandRing1
+    m_Weight: 0
+  - m_Path: Root/J_Left/J_Left_Hand/J_Left_HandRing1/J_Left_HandRing2
+    m_Weight: 0
+  - m_Path: Root/J_Left/J_Left_Hand/J_Left_HandRing1/J_Left_HandRing2/J_Left_HandRing3
+    m_Weight: 0
+  - m_Path: Root/J_Left/J_Left_Hand/J_Left_HandRing1/J_Left_HandRing2/J_Left_HandRing3/J_Left_HandRing4
+    m_Weight: 0
+  - m_Path: Root/J_Left/J_Left_Hand/J_Left_HandThumb1
+    m_Weight: 0
+  - m_Path: Root/J_Left/J_Left_Hand/J_Left_HandThumb1/J_Left_HandThumb2
+    m_Weight: 0
+  - m_Path: Root/J_Left/J_Left_Hand/J_Left_HandThumb1/J_Left_HandThumb2/J_Left_HandThumb3
+    m_Weight: 0
+  - m_Path: Root/J_Left/J_Left_Hand/J_Left_HandThumb1/J_Left_HandThumb2/J_Left_HandThumb3/J_Left_HandThumb4
+    m_Weight: 0
+  - m_Path: Root/J_Right
+    m_Weight: 0
+  - m_Path: Root/J_Right/J_Right_Hand
+    m_Weight: 0
+  - m_Path: Root/J_Right/J_Right_Hand/J_Right_HandIndex1
+    m_Weight: 1
+  - m_Path: Root/J_Right/J_Right_Hand/J_Right_HandIndex1/J_Right_HandIndex2
+    m_Weight: 1
+  - m_Path: Root/J_Right/J_Right_Hand/J_Right_HandIndex1/J_Right_HandIndex2/J_Right_HandIndex3
+    m_Weight: 1
+  - m_Path: Root/J_Right/J_Right_Hand/J_Right_HandIndex1/J_Right_HandIndex2/J_Right_HandIndex3/J_Right_HandIndex4
+    m_Weight: 0
+  - m_Path: Root/J_Right/J_Right_Hand/J_Right_HandMiddle1
+    m_Weight: 0
+  - m_Path: Root/J_Right/J_Right_Hand/J_Right_HandMiddle1/J_Right_HandMiddle2
+    m_Weight: 0
+  - m_Path: Root/J_Right/J_Right_Hand/J_Right_HandMiddle1/J_Right_HandMiddle2/J_Right_HandMiddle3
+    m_Weight: 0
+  - m_Path: Root/J_Right/J_Right_Hand/J_Right_HandMiddle1/J_Right_HandMiddle2/J_Right_HandMiddle3/J_Right_HandMiddle4
+    m_Weight: 0
+  - m_Path: Root/J_Right/J_Right_Hand/J_Right_HandPinky1
+    m_Weight: 0
+  - m_Path: Root/J_Right/J_Right_Hand/J_Right_HandPinky1/J_Right_HandPinky2
+    m_Weight: 0
+  - m_Path: Root/J_Right/J_Right_Hand/J_Right_HandPinky1/J_Right_HandPinky2/J_Right_HandPinky3
+    m_Weight: 0
+  - m_Path: Root/J_Right/J_Right_Hand/J_Right_HandPinky1/J_Right_HandPinky2/J_Right_HandPinky3/J_Right_HandPinky4
+    m_Weight: 0
+  - m_Path: Root/J_Right/J_Right_Hand/J_Right_HandRing1
+    m_Weight: 0
+  - m_Path: Root/J_Right/J_Right_Hand/J_Right_HandRing1/J_Right_HandRing2
+    m_Weight: 0
+  - m_Path: Root/J_Right/J_Right_Hand/J_Right_HandRing1/J_Right_HandRing2/J_Right_HandRing3
+    m_Weight: 0
+  - m_Path: Root/J_Right/J_Right_Hand/J_Right_HandRing1/J_Right_HandRing2/J_Right_HandRing3/J_Right_HandRing4
+    m_Weight: 0
+  - m_Path: Root/J_Right/J_Right_Hand/J_Right_HandThumb1
+    m_Weight: 0
+  - m_Path: Root/J_Right/J_Right_Hand/J_Right_HandThumb1/J_Right_HandThumb2
+    m_Weight: 0
+  - m_Path: Root/J_Right/J_Right_Hand/J_Right_HandThumb1/J_Right_HandThumb2/J_Right_HandThumb3
+    m_Weight: 0
+  - m_Path: Root/J_Right/J_Right_Hand/J_Right_HandThumb1/J_Right_HandThumb2/J_Right_HandThumb3/J_Right_HandThumb4
+    m_Weight: 0
+  - m_Path: SM_HandsVR_Male
+    m_Weight: 0
